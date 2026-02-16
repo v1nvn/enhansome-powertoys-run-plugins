@@ -26,7 +26,7 @@ PowerToys Run is a quick launcher for Windows. It is open-source and modular for
 <!--lint disable double-link-->
 
 * [Website](https://learn.microsoft.com/en-us/windows/powertoys/run)
-* [Repository](https://github.com/microsoft/PowerToys) ⭐ 129,794 | 🐛 8,155 | 🌐 C# | 📅 2026-02-14
+* [Repository](https://github.com/microsoft/PowerToys) ⭐ 129,816 | 🐛 8,158 | 🌐 C# | 📅 2026-02-14
 * [Microsoft Store](https://apps.microsoft.com/detail/xp89dcgq3k6vld)
 
 <!--lint enable double-link-->
@@ -55,17 +55,17 @@ PowerToys Run is a quick launcher for Windows. It is open-source and modular for
 
 ## Plugins
 
-* [Everything](https://github.com/lin-ycv/EverythingPowerToys) ⭐ 3,232 | 🐛 0 | 🌐 C# | 📅 2025-05-25 - Find files and folders instantly with Everything.
+* [Everything](https://github.com/lin-ycv/EverythingPowerToys) ⭐ 3,234 | 🐛 0 | 🌐 C# | 📅 2025-05-25 - Find files and folders instantly with Everything.
 * [PowerTranslator](https://github.com/N0I0C0K/PowerTranslator) ⭐ 561 | 🐛 19 | 🌐 C# | 📅 2025-12-01 - Translate text with Youdao Translation.
-* [WinGet](https://github.com/bostrot/PowerToysRunPluginWinget) ⭐ 330 | 🐛 9 | 🌐 C# | 📅 2026-02-15 - Install and manage Windows packages with WinGet.
+* [WinGet](https://github.com/bostrot/PowerToysRunPluginWinget) ⭐ 330 | 🐛 9 | 🌐 C# | 📅 2026-02-16 - Install and manage Windows packages with WinGet.
 * [WebSearchShortcut](https://github.com/Daydreamer-riri/PowerToys-Run-WebSearchShortcut) ⭐ 292 | 🐛 17 | 🌐 C# | 📅 2026-02-11 - Search with predefined search engines.
 * [CurrencyConverter](https://github.com/Advaith3600/PowerToys-Run-Currency-Converter) ⭐ 236 | 🐛 0 | 🌐 C# | 📅 2025-05-02 - Convert traditional and cryptocurrency with the latest exchange rates.
-* [ClipboardManager](https://github.com/CoreyHayward/PowerToys-Run-ClipboardManager) ⭐ 235 | 🐛 7 | 🌐 C# | 📅 2025-03-03 - Search and paste from clipboard history.
-* [ProcessKiller](https://github.com/8LWXpg/PowerToysRun-ProcessKiller) ⭐ 174 | 🐛 0 | 🌐 C# | 📅 2025-05-09 - Kill Windows processes.
+* [ClipboardManager](https://github.com/CoreyHayward/PowerToys-Run-ClipboardManager) ⭐ 234 | 🐛 7 | 🌐 C# | 📅 2025-03-03 - Search and paste from clipboard history.
+* [ProcessKiller](https://github.com/8LWXpg/PowerToysRun-ProcessKiller) ⭐ 173 | 🐛 0 | 🌐 C# | 📅 2025-05-09 - Kill Windows processes.
 * [GEmojiSharp](https://github.com/hlaueriksson/GEmojiSharp#gemojisharppowertoysrun) ⭐ 150 | 🐛 1 | 🌐 C# | 📅 2026-02-09 - Find and copy GitHub emoji.
 * [EdgeFavorite](https://github.com/davidegiacometti/PowerToys-Run-EdgeFavorite) ⭐ 133 | 🐛 1 | 🌐 C# | 📅 2025-04-10 - Open Microsoft Edge favorites.
-* [GitHubRepo](https://github.com/8LWXpg/PowerToysRun-GitHubRepo) ⭐ 126 | 🐛 0 | 🌐 C# | 📅 2026-01-28 - Open GitHub repositories.
-* [InputTyper](https://github.com/CoreyHayward/PowerToys-Run-InputTyper) ⭐ 118 | 🐛 2 | 🌐 C# | 📅 2025-05-16 - Type text as if sent from a keyboard.
+* [GitHubRepo](https://github.com/8LWXpg/PowerToysRun-GitHubRepo) ⭐ 125 | 🐛 0 | 🌐 C# | 📅 2026-01-28 - Open GitHub repositories.
+* [InputTyper](https://github.com/CoreyHayward/PowerToys-Run-InputTyper) ⭐ 117 | 🐛 2 | 🌐 C# | 📅 2025-05-16 - Type text as if sent from a keyboard.
 * [VisualStudio](https://github.com/davidegiacometti/PowerToys-Run-VisualStudio) ⭐ 83 | 🐛 0 | 🌐 C# | 📅 2025-04-21 - Open recent solutions in Visual Studio.
 * [Scoop](https://github.com/Quriz/PowerToysRunScoop) ⭐ 72 | 🐛 1 | 🌐 C# | 📅 2025-03-18 - Install and manage Windows packages with Scoop.
 * [VideoDownloader](https://github.com/ruslanlap/PowerToysRun-VideoDownloader) ⭐ 68 | 🐛 0 | 🌐 C# | 📅 2026-01-21 - Download videos from various platforms.
@@ -79,16 +79,16 @@ PowerToys Run is a quick launcher for Windows. It is open-source and modular for
 * [Twitch](https://github.com/hlaueriksson/Community.PowerToys.Run.Plugins#twitch) ⭐ 45 | 🐛 3 | 🌐 C# | 📅 2025-12-30 - Browse, search and view streams on Twitch.<!--lint enable double-link-->
 * [UnicodeInput](https://github.com/nathancartlidge/powertoys-run-unicode) ⭐ 37 | 🐛 2 | 🌐 C# | 📅 2026-01-11 - Find and copy Unicode characters with Agda-style shorthands.
 * [HexInspector](https://github.com/NaroZeol/PowerHexInspector) ⭐ 33 | 🐛 1 | 🌐 C# | 📅 2025-02-12 - Convert numbers between bases.
-* [Timer](https://github.com/CoreyHayward/PowerToys-Run-Timer) ⭐ 31 | 🐛 7 | 🌐 C# | 📅 2024-10-28 - Set and manage timers.
+* [Timer](https://github.com/CoreyHayward/PowerToys-Run-Timer) ⭐ 30 | 🐛 7 | 🌐 C# | 📅 2024-10-28 - Set and manage timers.
 * [LocalLLM](https://github.com/Darkdriller/PowerToys-Run-LocalLLm) ⭐ 30 | 🐛 5 | 🌐 C# | 📅 2025-02-22 - Query local LLM models with Ollama.
 * [QuickNotes](https://github.com/ruslanlap/CommunityPowerToysRunPlugin-QuickNotes) ⭐ 30 | 🐛 0 | 🌐 C# | 📅 2026-02-05 - Create, manage, and search notes.
 * [Universal Search Suggestions](https://github.com/Fefedu973/PowerToys-Run-Universal-Search-Suggestions-Plugin/) ⭐ 27 | 🐛 3 | 🌐 C# | 📅 2025-04-03 - Adds search suggestions when typing something.<!--lint disable double-link-->
 * [SVGL](https://github.com/SameerJS6/powertoys-svgl) ⭐ 24 | 🐛 0 | 🌐 C# | 📅 2025-03-22 - Browse, search, and copy SVG logos via svgl.
 * [RandomGen](https://github.com/ruslanlap/PowerToysRun-RandomGen) ⭐ 23 | 🐛 0 | 🌐 C# | 📅 2025-11-06 - Generate various types of random data.
 * [GitKraken](https://github.com/davidegiacometti/PowerToys-Run-GitKraken) ⭐ 21 | 🐛 0 | 🌐 C# | 📅 2025-04-10 - Open GitKraken repositories.
+* [Hotkeys](https://github.com/ruslanlap/PowerToysRun-Hotkeys) ⭐ 16 | 🐛 0 | 🌐 C# | 📅 2026-01-15 - Find and copy keyboard shortcuts for various applications.
 * [Lorem](https://github.com/dxn-9/prun-lorem) ⭐ 15 | 🐛 1 | 🌐 C# | 📅 2024-10-28 - Generate lorem ipsum texts.
-* [Hotkeys](https://github.com/ruslanlap/PowerToysRun-Hotkeys) ⭐ 15 | 🐛 0 | 🌐 C# | 📅 2026-01-15 - Find and copy keyboard shortcuts for various applications.
-* [BrowserFavorite](https://github.com/Der-Penz/PowerToys-Run-BrowserFavorite) ⭐ 12 | 🐛 2 | 🌐 C# | 📅 2025-03-14 - Quickly open your Browser Bookmarks.
+* [BrowserFavorite](https://github.com/Der-Penz/PowerToys-Run-BrowserFavorite) ⭐ 11 | 🐛 2 | 🌐 C# | 📅 2025-03-14 - Quickly open your Browser Bookmarks.
 * [JohnnyDecimal](https://github.com/seguri/PowerToys-Run-JohnnyDecimal) ⭐ 3 | 🐛 0 | 🌐 C# | 📅 2025-01-10 - Navigate through your JohnnyDecimal system.
 * [TemplateRunner](https://github.com/Heck-R/PowerToys.Run.Plugin.TemplateRunner) ⭐ 2 | 🐛 0 | 🌐 C# | 📅 2025-09-07 - Use simple commands and scripts as mini plugins.
 
