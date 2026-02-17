@@ -26,7 +26,7 @@ PowerToys Run is a quick launcher for Windows. It is open-source and modular for
 <!--lint disable double-link-->
 
 * [Website](https://learn.microsoft.com/en-us/windows/powertoys/run)
-* [Repository](https://github.com/microsoft/PowerToys) ⭐ 129,816 | 🐛 8,158 | 🌐 C# | 📅 2026-02-14
+* [Repository](https://github.com/microsoft/PowerToys) ⭐ 129,844 | 🐛 8,176 | 🌐 C# | 📅 2026-02-17
 * [Microsoft Store](https://apps.microsoft.com/detail/xp89dcgq3k6vld)
 
 <!--lint enable double-link-->
@@ -55,9 +55,9 @@ PowerToys Run is a quick launcher for Windows. It is open-source and modular for
 
 ## Plugins
 
-* [Everything](https://github.com/lin-ycv/EverythingPowerToys) ⭐ 3,234 | 🐛 0 | 🌐 C# | 📅 2025-05-25 - Find files and folders instantly with Everything.
+* [Everything](https://github.com/lin-ycv/EverythingPowerToys) ⭐ 3,235 | 🐛 0 | 🌐 C# | 📅 2025-05-25 - Find files and folders instantly with Everything.
 * [PowerTranslator](https://github.com/N0I0C0K/PowerTranslator) ⭐ 561 | 🐛 19 | 🌐 C# | 📅 2025-12-01 - Translate text with Youdao Translation.
-* [WinGet](https://github.com/bostrot/PowerToysRunPluginWinget) ⭐ 330 | 🐛 9 | 🌐 C# | 📅 2026-02-16 - Install and manage Windows packages with WinGet.
+* [WinGet](https://github.com/bostrot/PowerToysRunPluginWinget) ⭐ 330 | 🐛 9 | 🌐 C# | 📅 2026-02-17 - Install and manage Windows packages with WinGet.
 * [WebSearchShortcut](https://github.com/Daydreamer-riri/PowerToys-Run-WebSearchShortcut) ⭐ 292 | 🐛 17 | 🌐 C# | 📅 2026-02-11 - Search with predefined search engines.
 * [CurrencyConverter](https://github.com/Advaith3600/PowerToys-Run-Currency-Converter) ⭐ 236 | 🐛 0 | 🌐 C# | 📅 2025-05-02 - Convert traditional and cryptocurrency with the latest exchange rates.
 * [ClipboardManager](https://github.com/CoreyHayward/PowerToys-Run-ClipboardManager) ⭐ 234 | 🐛 7 | 🌐 C# | 📅 2025-03-03 - Search and paste from clipboard history.
