@@ -26,7 +26,7 @@ PowerToys Run is a quick launcher for Windows. It is open-source and modular for
 <!--lint disable double-link-->
 
 * [Website](https://learn.microsoft.com/en-us/windows/powertoys/run)
-* [Repository](https://github.com/microsoft/PowerToys) ⭐ 130,673 | 🐛 8,311 | 🌐 C# | 📅 2026-03-19
+* [Repository](https://github.com/microsoft/PowerToys) ⭐ 130,721 | 🐛 8,338 | 🌐 C# | 📅 2026-03-20
 * [Microsoft Store](https://apps.microsoft.com/detail/xp89dcgq3k6vld)
 
 <!--lint enable double-link-->
@@ -57,8 +57,8 @@ PowerToys Run is a quick launcher for Windows. It is open-source and modular for
 
 * [Everything](https://github.com/lin-ycv/EverythingPowerToys) ⭐ 3,260 | 🐛 0 | 🌐 C# | 📅 2025-05-25 - Find files and folders instantly with Everything.
 * [PowerTranslator](https://github.com/N0I0C0K/PowerTranslator) ⭐ 563 | 🐛 19 | 🌐 C# | 📅 2025-12-01 - Translate text with Youdao Translation.
-* [WinGet](https://github.com/bostrot/PowerToysRunPluginWinget) ⭐ 331 | 🐛 9 | 🌐 C# | 📅 2026-03-19 - Install and manage Windows packages with WinGet.
-* [WebSearchShortcut](https://github.com/Daydreamer-riri/PowerToys-Run-WebSearchShortcut) ⭐ 294 | 🐛 18 | 🌐 C# | 📅 2026-03-06 - Search with predefined search engines.
+* [WinGet](https://github.com/bostrot/PowerToysRunPluginWinget) ⭐ 331 | 🐛 9 | 🌐 C# | 📅 2026-03-20 - Install and manage Windows packages with WinGet.
+* [WebSearchShortcut](https://github.com/Daydreamer-riri/PowerToys-Run-WebSearchShortcut) ⭐ 293 | 🐛 19 | 🌐 C# | 📅 2026-03-19 - Search with predefined search engines.
 * [CurrencyConverter](https://github.com/Advaith3600/PowerToys-Run-Currency-Converter) ⭐ 237 | 🐛 0 | 🌐 C# | 📅 2025-05-02 - Convert traditional and cryptocurrency with the latest exchange rates.
 * [ClipboardManager](https://github.com/CoreyHayward/PowerToys-Run-ClipboardManager) ⭐ 236 | 🐛 7 | 🌐 C# | 📅 2025-03-03 - Search and paste from clipboard history.
 * [ProcessKiller](https://github.com/8LWXpg/PowerToysRun-ProcessKiller) ⭐ 180 | 🐛 0 | 🌐 C# | 📅 2025-05-09 - Kill Windows processes.
@@ -71,7 +71,7 @@ PowerToys Run is a quick launcher for Windows. It is open-source and modular for
 * [VideoDownloader](https://github.com/ruslanlap/PowerToysRun-VideoDownloader) ⭐ 71 | 🐛 0 | 🌐 C# | 📅 2026-01-21 - Download videos from various platforms.
 * [SpeedTest](https://github.com/ruslanlap/PowerToysRun-SpeedTest) ⭐ 57 | 🐛 0 | 🌐 C# | 📅 2025-09-09 - Test your internet connection speed.
 * [TOTP](https://github.com/KawaiiZapic/PowertoysRunTOTP) ⭐ 53 | 🐛 1 | 🌐 C# | 📅 2024-11-01 - Copy time-based two factor verify codes.
-* [Definition](https://github.com/ruslanlap/PowerToysRun-Definition) ⭐ 50 | 🐛 0 | 🌐 C# | 📅 2026-03-18 - Lookup word definitions, phonetics, and synonyms.
+* [Definition](https://github.com/ruslanlap/PowerToysRun-Definition) ⭐ 50 | 🐛 1 | 🌐 C# | 📅 2026-03-18 - Lookup word definitions, phonetics, and synonyms.
 * [Bang](https://github.com/hlaueriksson/Community.PowerToys.Run.Plugins#bang) ⭐ 45 | 🐛 3 | 🌐 C# | 📅 2025-12-30 - Search websites with DuckDuckGo !Bangs.
 * [DenCode](https://github.com/hlaueriksson/Community.PowerToys.Run.Plugins#dencode) ⭐ 45 | 🐛 3 | 🌐 C# | 📅 2025-12-30 - Encoding & Decoding.
 * [Dice](https://github.com/hlaueriksson/Community.PowerToys.Run.Plugins#dice) ⭐ 45 | 🐛 3 | 🌐 C# | 📅 2025-12-30 - Roleplaying dice roller.
