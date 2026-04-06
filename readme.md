@@ -26,7 +26,7 @@ PowerToys Run is a quick launcher for Windows. It is open-source and modular for
 <!--lint disable double-link-->
 
 * [Website](https://learn.microsoft.com/en-us/windows/powertoys/run)
-* [Repository](https://github.com/microsoft/PowerToys) ⭐ 131,332 | 🐛 8,472 | 🌐 C# | 📅 2026-04-04
+* [Repository](https://github.com/microsoft/PowerToys) ⭐ 131,378 | 🐛 8,479 | 🌐 C# | 📅 2026-04-05
 * [Microsoft Store](https://apps.microsoft.com/detail/xp89dcgq3k6vld)
 
 <!--lint enable double-link-->
@@ -55,9 +55,9 @@ PowerToys Run is a quick launcher for Windows. It is open-source and modular for
 
 ## Plugins
 
-* [Everything](https://github.com/lin-ycv/EverythingPowerToys) ⭐ 3,276 | 🐛 0 | 🌐 C# | 📅 2025-05-25 - Find files and folders instantly with Everything.
+* [Everything](https://github.com/lin-ycv/EverythingPowerToys) ⭐ 3,277 | 🐛 0 | 🌐 C# | 📅 2025-05-25 - Find files and folders instantly with Everything.
 * [PowerTranslator](https://github.com/N0I0C0K/PowerTranslator) ⭐ 565 | 🐛 19 | 🌐 C# | 📅 2025-12-01 - Translate text with Youdao Translation.
-* [WinGet](https://github.com/bostrot/PowerToysRunPluginWinget) ⭐ 332 | 🐛 9 | 🌐 C# | 📅 2026-04-05 - Install and manage Windows packages with WinGet.
+* [WinGet](https://github.com/bostrot/PowerToysRunPluginWinget) ⭐ 332 | 🐛 9 | 🌐 C# | 📅 2026-04-06 - Install and manage Windows packages with WinGet.
 * [WebSearchShortcut](https://github.com/Daydreamer-riri/PowerToys-Run-WebSearchShortcut) ⭐ 297 | 🐛 17 | 🌐 C# | 📅 2026-03-31 - Search with predefined search engines.
 * [ClipboardManager](https://github.com/CoreyHayward/PowerToys-Run-ClipboardManager) ⭐ 239 | 🐛 7 | 🌐 C# | 📅 2025-03-03 - Search and paste from clipboard history.
 * [CurrencyConverter](https://github.com/Advaith3600/PowerToys-Run-Currency-Converter) ⭐ 237 | 🐛 0 | 🌐 C# | 📅 2025-05-02 - Convert traditional and cryptocurrency with the latest exchange rates.
@@ -94,7 +94,7 @@ PowerToys Run is a quick launcher for Windows. It is open-source and modular for
 
 ## Resources
 
-* [ptr](https://github.com/8LWXpg/ptr) ⭐ 146 | 🐛 0 | 🌐 Rust | 📅 2026-03-06 - CLI tool for installing and managing community plugins.
+* [ptr](https://github.com/8LWXpg/ptr) ⭐ 147 | 🐛 0 | 🌐 Rust | 📅 2026-03-06 - CLI tool for installing and managing community plugins.
 * [Visual Studio Template](https://github.com/8LWXpg/PowerToysRun-PluginTemplate) ⭐ 52 | 🐛 0 | 🌐 C# | 📅 2025-04-29 - Visual Studio template for community plugins.
 * [Community.PowerToys.Run.Plugin.Templates](https://github.com/hlaueriksson/Community.PowerToys.Run.Plugin.Templates) ⭐ 20 | 🐛 0 | 🌐 C# | 📅 2025-12-30 - `dotnet new` templates for community plugins.
 * [Community.PowerToys.Run.Plugin.Dependencies](https://github.com/hlaueriksson/Community.PowerToys.Run.Plugin.Dependencies) ⭐ 13 | 🐛 0 | 📅 2025-12-30 - NuGet package with community plugin dependencies.
