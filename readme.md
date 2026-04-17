@@ -26,7 +26,7 @@ PowerToys Run is a quick launcher for Windows. It is open-source and modular for
 <!--lint disable double-link-->
 
 * [Website](https://learn.microsoft.com/en-us/windows/powertoys/run)
-* [Repository](https://github.com/microsoft/PowerToys) ⭐ 131,710 | 🐛 8,391 | 🌐 C# | 📅 2026-04-16
+* [Repository](https://github.com/microsoft/PowerToys) ⭐ 131,750 | 🐛 8,373 | 🌐 C# | 📅 2026-04-17
 * [Microsoft Store](https://apps.microsoft.com/detail/xp89dcgq3k6vld)
 
 <!--lint enable double-link-->
@@ -55,15 +55,15 @@ PowerToys Run is a quick launcher for Windows. It is open-source and modular for
 
 ## Plugins
 
-* [Everything](https://github.com/lin-ycv/EverythingPowerToys) ⭐ 3,285 | 🐛 0 | 🌐 C# | 📅 2025-05-25 - Find files and folders instantly with Everything.
-* [PowerTranslator](https://github.com/N0I0C0K/PowerTranslator) ⭐ 568 | 🐛 19 | 🌐 C# | 📅 2025-12-01 - Translate text with Youdao Translation.
-* [WinGet](https://github.com/bostrot/PowerToysRunPluginWinget) ⭐ 332 | 🐛 9 | 🌐 C# | 📅 2026-04-16 - Install and manage Windows packages with WinGet.
-* [WebSearchShortcut](https://github.com/Daydreamer-riri/PowerToys-Run-WebSearchShortcut) ⭐ 300 | 🐛 20 | 🌐 C# | 📅 2026-04-13 - Search with predefined search engines.
+* [Everything](https://github.com/lin-ycv/EverythingPowerToys) ⭐ 3,287 | 🐛 0 | 🌐 C# | 📅 2025-05-25 - Find files and folders instantly with Everything.
+* [PowerTranslator](https://github.com/N0I0C0K/PowerTranslator) ⭐ 570 | 🐛 19 | 🌐 C# | 📅 2025-12-01 - Translate text with Youdao Translation.
+* [WinGet](https://github.com/bostrot/PowerToysRunPluginWinget) ⭐ 332 | 🐛 9 | 🌐 C# | 📅 2026-04-17 - Install and manage Windows packages with WinGet.
+* [WebSearchShortcut](https://github.com/Daydreamer-riri/PowerToys-Run-WebSearchShortcut) ⭐ 300 | 🐛 21 | 🌐 C# | 📅 2026-04-17 - Search with predefined search engines.
 * [ClipboardManager](https://github.com/CoreyHayward/PowerToys-Run-ClipboardManager) ⭐ 239 | 🐛 7 | 🌐 C# | 📅 2025-03-03 - Search and paste from clipboard history.
 * [CurrencyConverter](https://github.com/Advaith3600/PowerToys-Run-Currency-Converter) ⭐ 238 | 🐛 0 | 🌐 C# | 📅 2025-05-02 - Convert traditional and cryptocurrency with the latest exchange rates.
 * [ProcessKiller](https://github.com/8LWXpg/PowerToysRun-ProcessKiller) ⭐ 183 | 🐛 0 | 🌐 C# | 📅 2026-03-22 - Kill Windows processes.
 * [GEmojiSharp](https://github.com/hlaueriksson/GEmojiSharp#gemojisharppowertoysrun) ⭐ 153 | 🐛 1 | 🌐 C# | 📅 2026-02-09 - Find and copy GitHub emoji.
-* [EdgeFavorite](https://github.com/davidegiacometti/PowerToys-Run-EdgeFavorite) ⭐ 135 | 🐛 1 | 🌐 C# | 📅 2025-04-10 - Open Microsoft Edge favorites.
+* [EdgeFavorite](https://github.com/davidegiacometti/PowerToys-Run-EdgeFavorite) ⭐ 136 | 🐛 1 | 🌐 C# | 📅 2025-04-10 - Open Microsoft Edge favorites.
 * [GitHubRepo](https://github.com/8LWXpg/PowerToysRun-GitHubRepo) ⭐ 127 | 🐛 0 | 🌐 C# | 📅 2026-03-25 - Open GitHub repositories.
 * [InputTyper](https://github.com/CoreyHayward/PowerToys-Run-InputTyper) ⭐ 122 | 🐛 2 | 🌐 C# | 📅 2025-05-16 - Type text as if sent from a keyboard.
 * [VisualStudio](https://github.com/davidegiacometti/PowerToys-Run-VisualStudio) ⭐ 85 | 🐛 0 | 🌐 C# | 📅 2025-04-21 - Open recent solutions in Visual Studio.
