@@ -26,7 +26,7 @@ PowerToys Run is a quick launcher for Windows. It is open-source and modular for
 <!--lint disable double-link-->
 
 * [Website](https://learn.microsoft.com/en-us/windows/powertoys/run)
-* [Repository](https://github.com/microsoft/PowerToys) ⭐ 132,894 | 🐛 6,901 | 🌐 C# | 📅 2026-05-07
+* [Repository](https://github.com/microsoft/PowerToys) ⭐ 132,935 | 🐛 6,909 | 🌐 C# | 📅 2026-05-08
 * [Microsoft Store](https://apps.microsoft.com/detail/xp89dcgq3k6vld)
 
 <!--lint enable double-link-->
@@ -55,9 +55,9 @@ PowerToys Run is a quick launcher for Windows. It is open-source and modular for
 
 ## Plugins
 
-* [Everything](https://github.com/lin-ycv/EverythingPowerToys) ⭐ 3,303 | 🐛 0 | 🌐 C# | 📅 2026-05-03 - Find files and folders instantly with Everything.
+* [Everything](https://github.com/lin-ycv/EverythingPowerToys) ⭐ 3,304 | 🐛 0 | 🌐 C# | 📅 2026-05-03 - Find files and folders instantly with Everything.
 * [PowerTranslator](https://github.com/N0I0C0K/PowerTranslator) ⭐ 574 | 🐛 17 | 🌐 C# | 📅 2026-05-01 - Translate text with Youdao Translation.
-* [WinGet](https://github.com/bostrot/PowerToysRunPluginWinget) ⭐ 333 | 🐛 9 | 🌐 C# | 📅 2026-05-07 - Install and manage Windows packages with WinGet.
+* [WinGet](https://github.com/bostrot/PowerToysRunPluginWinget) ⭐ 333 | 🐛 9 | 🌐 C# | 📅 2026-05-08 - Install and manage Windows packages with WinGet.
 * [WebSearchShortcut](https://github.com/Daydreamer-riri/PowerToys-Run-WebSearchShortcut) ⭐ 299 | 🐛 19 | 🌐 C# | 📅 2026-04-26 - Search with predefined search engines.
 * [ClipboardManager](https://github.com/CoreyHayward/PowerToys-Run-ClipboardManager) ⭐ 240 | 🐛 7 | 🌐 C# | 📅 2025-03-03 - Search and paste from clipboard history.
 * [CurrencyConverter](https://github.com/Advaith3600/PowerToys-Run-Currency-Converter) ⭐ 239 | 🐛 0 | 🌐 C# | 📅 2025-05-02 - Convert traditional and cryptocurrency with the latest exchange rates.
@@ -77,8 +77,8 @@ PowerToys Run is a quick launcher for Windows. It is open-source and modular for
 * [Dice](https://github.com/hlaueriksson/Community.PowerToys.Run.Plugins#dice) ⭐ 47 | 🐛 3 | 🌐 C# | 📅 2025-12-30 - Roleplaying dice roller.
 * [Need](https://github.com/hlaueriksson/Community.PowerToys.Run.Plugins#need) ⭐ 47 | 🐛 3 | 🌐 C# | 📅 2025-12-30 - Key-value store for important information.
 * [Twitch](https://github.com/hlaueriksson/Community.PowerToys.Run.Plugins#twitch) ⭐ 47 | 🐛 3 | 🌐 C# | 📅 2025-12-30 - Browse, search and view streams on Twitch.<!--lint enable double-link-->
+* [UnicodeInput](https://github.com/nathancartlidge/powertoys-run-unicode) ⭐ 39 | 🐛 2 | 🌐 C# | 📅 2026-01-11 - Find and copy Unicode characters with Agda-style shorthands.
 * [QuickNotes](https://github.com/ruslanlap/CommunityPowerToysRunPlugin-QuickNotes) ⭐ 39 | 🐛 0 | 🌐 C# | 📅 2026-02-05 - Create, manage, and search notes.
-* [UnicodeInput](https://github.com/nathancartlidge/powertoys-run-unicode) ⭐ 38 | 🐛 2 | 🌐 C# | 📅 2026-01-11 - Find and copy Unicode characters with Agda-style shorthands.
 * [Timer](https://github.com/CoreyHayward/PowerToys-Run-Timer) ⭐ 34 | 🐛 7 | 🌐 C# | 📅 2024-10-28 - Set and manage timers.
 * [HexInspector](https://github.com/NaroZeol/PowerHexInspector) ⭐ 34 | 🐛 1 | 🌐 C# | 📅 2025-02-12 - Convert numbers between bases.
 * [LocalLLM](https://github.com/Darkdriller/PowerToys-Run-LocalLLm) ⭐ 31 | 🐛 5 | 🌐 C# | 📅 2026-04-20 - Query local LLM models with Ollama.
